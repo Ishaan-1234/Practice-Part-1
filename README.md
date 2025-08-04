@@ -8,8 +8,8 @@ My First Practice Repository
     <th>Age</th>
   </tr>
 
-  <tr>
+  <tr style="color:blue;">
     <td>Rohan</td>
-    <td style="color:blue;">20</td>
+    <td>20</td>
   </tr>
 </Table>
