@@ -10,6 +10,6 @@ My First Practice Repository
 
   <tr>
     <td>Rohan</td>
-    <td>20</td>
+    <td style="color:blue;">20</td>
   </tr>
 </Table>
